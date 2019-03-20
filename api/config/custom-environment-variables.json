@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "remoteDoor_jwtPrivateKey",
+    "PORT": "remoteDoor_PORT",
+    "URL": "remoteDOOR_URL"
+}
